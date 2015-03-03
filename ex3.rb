@@ -11,4 +11,5 @@ puts 3 + 2 +1 -5 +4 % 3 + 5 /8
 puts 100.38 * 67.3 / 43.20987
 
 cars = 2000
+# #{} Is used to embed variables inside a string, like this:
 puts "We have #{cars} cars in store"
